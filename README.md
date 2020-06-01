@@ -41,4 +41,13 @@ Shoot: W
 Move right: E
 
 
+### About CHIP8 controls
+CHIP8 takes in key presses from 16 keypads: 
+```
+1 2 3 4
+Q W E R
+A S D F
+Z X C V
+```
+If any of the games do not have instruction, play aruond with the above keys!
 
