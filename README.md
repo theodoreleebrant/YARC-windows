@@ -49,5 +49,5 @@ Q W E R
 A S D F
 Z X C V
 ```
-If any of the games do not have instruction, play aruond with the above keys!
+If any of the games do not have instruction, play around with the above keys!
 
