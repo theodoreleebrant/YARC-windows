@@ -28,22 +28,17 @@ cargo run PONG
 ### Game instructions:
 > Pong 
 
-Left bar up: 1
-
-Left bar down: q  
-
-Right bar up: 4
-
-Right bar down: r
+Left bar up: 1  
+Left bar down: Q  
+Right bar up: 4  
+Right bar down: R
 
 
 > Space invader
 
-Move left: q
-
-Shoot: w
-
-Move right: e
+Move left: Q  
+Shoot: W  
+Move right: E
 
 
 
